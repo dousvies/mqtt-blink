@@ -1,0 +1,12 @@
+#include "Constants.h"
+
+const int led_pin = 999999;
+
+const char* wifi_ssid = "YOUR_WIFI_SSID";
+const char* wifi_password = "YOUR_WIFI_PASSWORD";
+
+const char* mqtt_server_address = "YOUR_MQTT_SERVER_ADDRESS";
+const int mqtt_server_port = 999999;
+const char* mqtt_client_name = "YOUR_MQTT_SERVER_CLIENT_NAME";
+
+const char* led_mqtt_topic = "your/mqtt/topic";
